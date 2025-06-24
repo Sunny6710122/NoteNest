@@ -30,29 +30,5 @@ Built with **React**, **Node.js**, **Express**, and **MongoDB**, this applicatio
 - ⚡ **Fast & Responsive** – Clean UI with seamless UX
 - 🌐 **RESTful API** – Built with Express and connected to MongoDB
 
----
 
-## 📸 Preview
-
-> _Add screenshots or a demo video link here to showcase the app._
-
----
-
-## 📁 Project Structure
-
-NoteNest/
-├── client/ # React Frontend
-│ ├── src/
-│ └── package.json
-│
-├── server/ # Node.js + Express Backend
-│ ├── controllers/
-│ ├── middleware/
-│ ├── models/
-│ ├── routes/
-│ └── index.js
-│
-├── .env
-├── package.json
-└── README.md
 
