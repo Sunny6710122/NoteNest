@@ -40,3 +40,19 @@ Built with **React**, **Node.js**, **Express**, and **MongoDB**, this applicatio
 
 ## 📁 Project Structure
 
+NoteNest/
+├── client/ # React Frontend
+│ ├── src/
+│ └── package.json
+│
+├── server/ # Node.js + Express Backend
+│ ├── controllers/
+│ ├── middleware/
+│ ├── models/
+│ ├── routes/
+│ └── index.js
+│
+├── .env
+├── package.json
+└── README.md
+
